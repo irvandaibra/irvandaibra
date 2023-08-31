@@ -12,7 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=irvandaibra&label=Profile%20views&color=0e75b6&style=flat" alt="irvandaibra" />
 </p>
 
-- 📫 How to reach me **irvndibhm354@gmail.com** - ⚡ Fun fact **something a lot**
+- 📫 How to reach me **irvndibhm354@gmail.com** 
+- ⚡ Fun fact **something a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
