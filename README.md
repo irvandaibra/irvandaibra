@@ -1,30 +1,16 @@
 <h1 align="center">Hi 👋, I'm irvanda_ibra</h1>
 <h3 align="center" >hello, I'm Irvan, I'm a novice programmer in Indonesia. there are still many things i need to learn</h3>
 
-<img
-  align="right"
-  width="400"
-  src="https://photutorial.com/wp-content/uploads/2022/12/How-To-Hire-a-Freelance-Graphic-Designer.svg"
-  alt="coding"
-/>
+<img align="right" width="400" src="https://photutorial.com/wp-content/uploads/2022/12/How-To-Hire-a-Freelance-Graphic-Designer.svg" alt="coding"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=irvandaibra&label=Profile%20views&color=0e75b6&style=flat" alt="irvandaibra" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irvandaibra&label=Profile%20views&color=0e75b6&style=flat" alt="irvandaibra" /><img alt="Static Badge" src="https://img.shields.io/badge/status-chillin-gray?labelColor=red"></p>
 
 - 📫 How to reach me **irvndibhm354@gmail.com** 
 - ⚡ Fun fact **something a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/irvanda_ibra" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="-"
-      height="30"
-      width="40"
-  /></a>
+  <a href="https://fb.com/irvanda_ibra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="-" height="30" width="40"/></a>
   <a href="https://instagram.com/irvanda_ibra" target="blank"
     ><img
       align="center"
