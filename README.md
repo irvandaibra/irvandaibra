@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm irvanda_ibra</h1>
 <h3 align="center" >hello, I'm Irvan, I'm a novice programmer in Indonesia. there are still many things i need to learn</h3>
-
 <img align="right" width="400" src="https://photutorial.com/wp-content/uploads/2022/12/How-To-Hire-a-Freelance-Graphic-Designer.svg" alt="coding"/>
-
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=irvandaibra&label=Profile%20views&color=0e75b6&style=flat" alt="irvandaibra" /><img alt="Static Badge" src="https://img.shields.io/badge/status-chillin-gray?labelColor=red">
 </p>
@@ -17,7 +15,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irvanda_ibra" height="30" width="40"/>
   </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -73,16 +70,13 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
   </a>
 </p>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irvandaibra&show_icons=true&locale=en&layout=compact" alt="irvandaibra"/>
 </p>
-
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irvandaibra&show_icons=true&locale=en" alt="irvandaibra"
   />
 </p>
-
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irvandaibra&" alt="irvandaibra" />
 </p>
